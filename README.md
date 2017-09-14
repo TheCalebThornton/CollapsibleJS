@@ -52,10 +52,10 @@ If you choose to start in a collapsed state, your HTML might look like this:
 
 
 ## Future enhancements:
--Remove dependency on JQuery
--Allow the user to pass in a class OR Id attribute identifier for target
--Support Module Loaders
--More elegant error handling
+- Remove dependency on JQuery
+- Allow the user to pass in a class OR Id attribute identifier for target
+- Support Module Loaders
+- More elegant error handling
 
 
 ## License
